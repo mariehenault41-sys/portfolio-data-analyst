@@ -20,7 +20,7 @@ Data Analyst en reconversion, avec une formation solide en biologie et recherche
 ---
 
 ### 2) Profil Data Analyst
-![Profil Data Analyst](./Dashboard_Profil.png)
+![Profil Data Analyst](./Dashboard _Profil.png)
 
 **Description :** Présentation des compétences, projets et soft skills.
 
