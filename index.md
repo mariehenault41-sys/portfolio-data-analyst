@@ -12,7 +12,7 @@ Data Analyst en reconversion, avec une formation solide en biologie et recherche
 ## Dashboards
 
 ### 1) Veille technologique
-![Veille technologique](./Dashboard_Veille_technologique.png)
+![Veille technologique](./Dashboard -_Veille_technologique.png)
 
 **Description :** Tableau de suivi des outils testés, catégorisation et KPIs.  
 [Télécharger la documentation technique (PDF)](./Documentation_technique_utilisateur.pdf)
