@@ -1,4 +1,4 @@
-# 📊 Portfolio Data Analyst — Marie XXXX
+# Portfolio Data Analyst — Marie Henault
 
 **Data Analyst avec un background en recherche clinique et qualité**
 
@@ -9,7 +9,7 @@ N'hésitez pas à naviguer directement vers le bloc qui vous intéresse.
 
 ---
 
-## 🔷 Navigation rapide
+## Navigation rapide
 
 | Bloc | Outils |
 |------|--------|
@@ -20,7 +20,7 @@ N'hésitez pas à naviguer directement vers le bloc qui vous intéresse.
 
 ---
 
-## 🗄️ SQL
+## SQL
 
 ### 📁 Conception et requêtage d'une base de données immobilière
 **Outils :** SQL, SQLite, SQL Power Architect, RGPD
@@ -43,7 +43,7 @@ et accompagner la prise de décision client. Exploration, filtrage et agrégatio
 
 ---
 
-## 🐍 Python / R
+## Python / R
 
 ### 📁 Détection de faux billets
 **Outils :** Python, Pandas, Scikit-learn, régression logistique, clustering
@@ -89,7 +89,7 @@ de graphiques commentés.
 
 ---
 
-## 📈 Dataviz
+## Dataviz
 
 ### 📁 Dashboard de suivi de projets
 **Outils :** Power BI, DAX, modélisation de données
@@ -113,7 +113,7 @@ et storytelling pour une ONG.
 
 ---
 
-## 🗂️ Data Management / Qualité
+## Data Management / Qualité
 
 ### 📁 Indicateurs d'égalité femmes-hommes
 **Outils :** KNIME, Excel, RGPD
