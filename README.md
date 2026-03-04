@@ -29,7 +29,7 @@ Modélisation relationnelle d'une base de données immobilière à partir de don
 Conception du schéma, création des tables, requêtes d'extraction et de manipulation des données
 dans le respect du RGPD.
 
-📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/SQL/Conception%20et%20requ%C3%AAtage%20d%27une%20base%20de%20donn%C3%A9es%20immobili%C3%A8re)
+📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/SQL/Conception et requêtage d'une base de données immobilière)
 
 ---
 
