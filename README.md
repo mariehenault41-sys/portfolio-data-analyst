@@ -9,14 +9,14 @@ N'hésitez pas à naviguer directement vers le bloc qui vous intéresse.
 
 ---
 
-## Navigation rapide
+## Sommaire
 
-| Bloc | Outils |
-|------|--------|
-| [SQL](#-sql) | SQLite, SQL Power Architect |
-| [Python / R](#-python--r) | Python, Pandas, Scikit-learn, R |
-| [Dataviz](#-dataviz) | Power BI, DAX, Tableau |
-| [Data Management / Qualité](#-data-management--qualité) | KNIME, Python, RGPD |
+| Bloc | Projets |
+|------|---------|
+| SQL | [Base immobilière](#-sql) · [Assurances habitation](#-sql) |
+| Python / R | [Faux billets](#-python--r) · [Étude de marché](#-python--r) · [Ventes librairie](#-python--r) · [Sécurité alimentaire](#-python--r) |
+| Dataviz | [Power BI](#-dataviz) · [Tableau](#-dataviz) |
+| Data Management | [Égalité H/F](#-data-management--qualité) · [Fusion multi-sources](#-data-management--qualité) |
 
 ---
 
