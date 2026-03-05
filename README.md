@@ -29,7 +29,7 @@ Modélisation relationnelle d'une base de données immobilière à partir de don
 Conception du schéma, création des tables, requêtes d'extraction et de manipulation des données
 dans le respect du RGPD.
 
-📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/SQL/Conception et requêtage d'une base de données immobilière)
+📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/portfolio-data-analyst/SQL/Conception%20et%20requ%C3%AAtage%20d'une%20base%20de%20donn%C3%A9es%20immobili%C3%A8re)
 
 ---
 
@@ -39,7 +39,7 @@ dans le respect du RGPD.
 Requêtage d'une base de données existante pour analyser le marché des assurances habitation
 et accompagner la prise de décision client. Exploration, filtrage et agrégation des données.
 
-📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/SQL/Analyse%20du%20march%C3%A9%20des%20assurances%20habitation)
+📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/portfolio-data-analyst/SQL/Analyse%20du%20march%C3%A9%20des%20assurances%20habitation)
 
 ---
 
@@ -52,7 +52,7 @@ Construction d'un modèle de classification pour détecter automatiquement des f
 Approche combinant clustering non supervisé et régression logistique, avec interprétation
 statistique des résultats.
 
-📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/Python-R/D%C3%A9tection%20de%20faux%20billets)
+📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/portfolio-data-analyst/Python-R/D%C3%A9tection%20de%20faux%20billets)
 
 ---
 
@@ -63,7 +63,7 @@ Segmentation de pays cibles pour l'expansion internationale d'une entreprise agr
 Analyse en composantes principales et clustering pour identifier des groupes homogènes
 et formuler des recommandations stratégiques.
 
-📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/Python-R/Etude%20de%20march%C3%A9%20internationale)
+📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/portfolio-data-analyst/Python-R/Etude%20de%20march%C3%A9%20internationale)
 
 ---
 
@@ -74,7 +74,7 @@ Analyse des comportements d'achat des clients d'une librairie à partir de donn�
 multi-sources. Identification de tendances et modélisation prédictive pour anticiper
 les ventes futures.
 
-📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/Python-R/Analyse%20des%20ventes%20et%20pr%C3%A9vision%20commerciale)
+📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/portfolio-data-analyst/Python-R/Analyse%20des%20ventes%20et%20pr%C3%A9vision%20commerciale)
 
 ---
 
@@ -85,7 +85,7 @@ Analyse des données de la FAO sur la faim dans le monde. Nettoyage et structura
 des données, calcul d'indicateurs clés et restitution visuelle des résultats sous forme
 de graphiques commentés.
 
-📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/Python-R/Etude%20de%20la%20s%C3%A9curit%C3%A9%20alimentaire%20mondiale)
+📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/portfolio-data-analyst/Python-R/Etude%20de%20la%20s%C3%A9curit%C3%A9%20alimentaire%20mondiale)
 
 ---
 
@@ -98,7 +98,7 @@ Conception d'un tableau de bord interactif pour le suivi de l'avancement de proj
 en entreprise. Définition des KPI, modélisation des données et création de visualisations
 dynamiques pour faciliter la prise de décision.
 
-📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/Dataviz/Dashboard%20de%20suivi%20de%20projets)
+📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/portfolio-data-analyst/Dataviz/Dashboard%20de%20suivi%20de%20projets)
 
 ---
 
@@ -109,7 +109,7 @@ Création de dashboards interactifs pour visualiser les inégalités d'accès à
 dans le monde. Sélection des indicateurs pertinents, conception des visualisations
 et storytelling pour une ONG.
 
-📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/Dataviz/Acc%C3%A8s%20mondial%20%C3%A0%20l%27eau%20potable)
+📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/portfolio-data-analyst/Dataviz/Acc%C3%A8s%20mondial%20%C3%A0%20l%27eau%20potable)
 
 ---
 
@@ -122,7 +122,7 @@ Collecte et traitement des données RH d'une entreprise dans le respect du RGPD.
 Calcul et restitution des indicateurs réglementaires d'égalité professionnelle femmes-hommes
 via un workflow automatisé sur KNIME.
 
-📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/Data%20Management%20%E2%80%93%20Qualit%C3%A9/Indicateurs%20d%27%C3%A9galit%C3%A9%20femmes-hommes)
+📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/portfolio-data-analyst/Data%20Management%20%E2%80%93%20Qualit%C3%A9/Indicateurs%20d%27%C3%A9galit%C3%A9%20femmes-hommes)
 
 ---
 
@@ -133,7 +133,7 @@ Restructuration et nettoyage de jeux de données mal organisés pour une boutiqu
 Fusion de sources hétérogènes, traitement des anomalies et préparation des données
 pour l'analyse.
 
-📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/Data%20Management%20%E2%80%93%20Qualit%C3%A9/Optimisation%20et%20fusion%20de%20donn%C3%A9es%20multi-sources)
+📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/portfolio-data-analyst/Data%20Management%20%E2%80%93%20Qualit%C3%A9/Optimisation%20et%20fusion%20de%20donn%C3%A9es%20multi-sources)
 
 ---
 
