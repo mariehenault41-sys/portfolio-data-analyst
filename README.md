@@ -122,7 +122,7 @@ Collecte et traitement des données RH d'une entreprise dans le respect du RGPD.
 Calcul et restitution des indicateurs réglementaires d'égalité professionnelle femmes-hommes
 via un workflow automatisé sur KNIME.
 
-📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/portfolio-data-analyst/Data%20Management%20%E2%80%93%20Qualit%C3%A9/Indicateurs%20d%27%C3%A9galit%C3%A9%20femmes-hommes)
+📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/portfolio-data-analyst/Data%20Management%20-%20Qualit%C3%A9/Indicateurs%20d%27%C3%A9galit%C3%A9%20femmes-hommes)
 
 ---
 
@@ -133,7 +133,7 @@ Restructuration et nettoyage de jeux de données mal organisés pour une boutiqu
 Fusion de sources hétérogènes, traitement des anomalies et préparation des données
 pour l'analyse.
 
-📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/portfolio-data-analyst/Data%20Management%20%E2%80%93%20Qualit%C3%A9/Optimisation%20et%20fusion%20de%20donn%C3%A9es%20multi-sources)
+📂 [Voir le projet](https://github.com/mariehenault41-sys/portfolio-data-analyst/tree/main/portfolio-data-analyst/Data%20Management%20-%20Qualit%C3%A9/Optimisation%20et%20fusion%20de%20donn%C3%A9es%20multi-sources)
 
 ---
 
